@@ -1,5 +1,3 @@
-"""Бизнес-логика игры: не зависит ни от Click, ни от базы данных."""
-
 import random
 from dataclasses import dataclass
 from typing import Literal
