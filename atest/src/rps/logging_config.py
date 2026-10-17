@@ -1,5 +1,3 @@
-"""Настройка логирования в файл app.log."""
-
 import logging
 from pathlib import Path
 
