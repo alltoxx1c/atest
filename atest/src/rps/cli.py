@@ -1,5 +1,3 @@
-"""Click-интерфейс: только ввод/вывод, вся логика — в logic.py и db.py."""
-
 import logging
 from pathlib import Path
 
